@@ -50,5 +50,9 @@ li{
   color: #222831;
   text-align: center;
   margin-right: 45px;
+  cursor: pointer;
+}
+.crossed{
+  text-decoration: line-through 2px red;
 }
 
